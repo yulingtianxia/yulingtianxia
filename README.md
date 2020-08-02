@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on [DartNative](https://github.com/dart-native)
 - 🌱 I’m currently learning iOS
-- 🎮 I'm currently playing `Wiedźmin 3: Dziki Gon`
+- 🎮 I'm currently playing *Wiedźmin 3: Dziki Gon*
 - 📫 How to reach me: yulingtianxia@gmail.com
